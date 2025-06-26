@@ -27,12 +27,12 @@ Useful scripts for enhancing your Termux experience — from essential package i
 
 ```bash
 curl -sL https://raw.githubusercontent.com/frnwot/Termux/main/basic.sh | bash
-
+```
 ### 🔹 Fix sudo in Termux
 
 ```bash
 curl -sL https://raw.githubusercontent.com/frnwot/Termux/main/fix_sudo.sh | bash
-
+```
 ## 👤 Author
 
 **FARHAN (frn)**  
